@@ -19,3 +19,5 @@ while True:
 # 마지막으로 남은 수에 대하여 1씩 뺴기
 result += (n-1)
 print(result)   
+# git test
+print(result)
